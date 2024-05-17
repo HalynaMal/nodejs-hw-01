@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Ms. Mable Metz",
+    "phone": "1-988-916-2949 x425",
+    "email": "Celia.Hermiston27@hotmail.com",
+    "job": "Customer Metrics Officer"
+  },
+  {
+    "name": "Levi Schiller",
+    "phone": "972-941-1229",
+    "email": "Irving.Gerhold54@yahoo.com",
+    "job": "Global Optimization Liaison"
+  },
+  {
+    "name": "Glenda Windler",
+    "phone": "628.521.0162 x2819",
+    "email": "Jeremy.Ziemann@hotmail.com",
+    "job": "Global Applications Manager"
+  }
+]
